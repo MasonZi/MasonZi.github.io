@@ -1,0 +1,124 @@
+nav{
+    background: tan;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 913px;
+    padding-right: 50px;
+    position: fixed;
+}
+
+a.menu{
+    color: white;
+    text-decoration: none;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+a:hover{
+    color:darkred;
+    background: white;
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+body{
+    margin:0px;
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+div#profile{
+    padding-left: 0px;
+    padding-top:200px;
+    padding-bottom: 150px;
+    padding-right: 0px;
+    width: 350px;
+    /*border: 2px blue solid;*/
+    display: inline-block;
+    margin-left: 300px;
+}
+div#bio{
+    padding: 100px;
+    padding-left: 0px;
+    padding-top: 100px;
+    padding-bottom: 150px;
+    padding-right: 50px;
+    width: 600px;
+    /*border: 2px blue solid;*/
+    display: inline-block;
+    font-family: "Merriweather", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+h1#head1{
+    color: darkred;
+}
+h1{
+    color: white;
+}
+
+div#portfolio{
+    background: darkred;
+    padding-left: 300px;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    padding-right: 200px;
+    /*border: 2px blue solid;*/
+    display: ;
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+div#adventure{
+    
+    padding-left: 300px;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    padding-right: 200px;
+    /*border: 2px blue solid;*/
+    display: ;
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+div#video{
+    padding-left: 50px;
+    padding-top: 7px;
+    padding-bottom: 0px;
+    padding-right: 200px;
+    /*border: 2px blue solid;*/
+    display: ;
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+div#para{
+    padding-left: 0px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-right: 145px;
+    /*border: 2px blue solid;*/
+    display: ;
+    font-family: "Merriweather", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+div#footer{
+    background: black;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 0px;
+}
